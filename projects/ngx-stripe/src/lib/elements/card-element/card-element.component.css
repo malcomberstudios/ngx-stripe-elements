@@ -1,0 +1,13 @@
+.submit-button-holder{
+  display: flex;
+  padding: 6px 0;
+}
+.submit-button-holder.left{
+  justify-content: flex-start;
+}
+.submit-button-holder.middle{
+    justify-content: center;
+}
+.submit-button-holder.right{
+    justify-content: flex-end;
+}

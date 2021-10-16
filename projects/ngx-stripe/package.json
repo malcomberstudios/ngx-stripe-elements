@@ -1,0 +1,14 @@
+{
+  "name": "ngx-stripe-elements",
+  "version": "0.0.1",
+  "author": "Royston Malcomber",
+  "description": "A collection of elements, and services to make using StripeJs easier within angular.",
+  "peerDependencies": {
+    "@angular/common": "^12.1.0",
+    "@angular/core": "^12.1.0",
+    "@stripe/stripe-js": "^1.19.1"
+  },
+  "dependencies": {
+    "tslib": "^2.2.0"
+  }
+}
